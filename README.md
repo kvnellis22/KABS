@@ -11,7 +11,7 @@ Step 3. Include the following JavaScript on every page of the website (Include j
 
 $(function(){
    $.ajax('KABS.php'); 
-}}; 
+}); 
 
 Step 4. Visit site and KABS will execute after 24hrs of the last visit.
 
